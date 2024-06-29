@@ -1,0 +1,77 @@
+
+.main-page,
+.main-page * {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+}
+.main-page {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+.rectangle-1 {
+  
+  background: linear-gradient(
+    180deg,
+    rgba(105, 204, 247, 1) 0%,
+    rgba(105, 204, 247, 0) 100%
+  );
+  width: 1000px;
+  height: 10000px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-34 {
+  width: 514px;
+  height: 523px;
+  position: absolute;
+  left: 463px;
+  top: 61px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.medcare {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  position: absolute;
+  left: 441px;
+  top: 625px;
+}
+.ai-based-medical-assistant {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 44px;
+  font-weight: 400;
+  position: absolute;
+  left: 387px;
+  top: 750px;
+}
+.ai-based-medical-assistant-span {
+  color: #000000;
+  font-family: "DmSans-Medium", sans-serif;
+  font-size: 44px;
+  font-weight: 500;
+}
+.ai-based-medical-assistant-span2 {
+  color: #000000;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+}
+.treatment-without-prevention-is-simply-unsustainable {
+  color: #000000;
+  text-align: left;
+  font-family: "DmSans-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 370px;
+  top: 942px;
+  width: 776px;
+}
